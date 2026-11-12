@@ -64,5 +64,8 @@
     "readable-stream": "^4.1.0",
     "uuid-1345": "^1.0.1",
     "yggdrasil": "^1.4.0"
+  },
+  "overrides": {
+    "minecraft-data": "$minecraft-data"
   }
 }
